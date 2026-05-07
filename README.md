@@ -111,6 +111,14 @@ El panel permite analizar la información de manera visual e interactiva mediant
 
 ![Vista General](images/kpis.png)
 
+## 📥 Descargar Dashboard
+
+Puedes descargar el archivo de Power BI desde aquí:
+
+[Descargar Dashboard Power BI](dashboard/Análisis de Ventas – Restaurante Fitness.pbix)
+
+
+
 ---
 
 ## Conclusión
